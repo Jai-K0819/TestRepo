@@ -3,3 +3,4 @@ Changes in File2.
 
 This is Change from local.
 
+Changes in newBranch
