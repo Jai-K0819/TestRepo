@@ -1,2 +1,4 @@
 This is file2.
 Changes in File2.
+
+Changes from git master.
